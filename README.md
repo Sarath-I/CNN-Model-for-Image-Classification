@@ -4,9 +4,6 @@
 
 This project focuses on building and evaluating a Convolutional Neural Network (CNN) model for multi-class image classification using the Intel Image Classification Dataset 
 
-DL Assignment 1 - CNN (1)
-
-.
 
 The objective is to design a deep learning pipeline that performs accurate classification of natural scene images into six categories: Buildings, Forest, Glacier, Mountain, Sea, and Street.
 
